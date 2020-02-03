@@ -11,7 +11,7 @@ class Owner
     puts "I am a #{species}."
   end
 
-  def self.all?
+  def self.all
     @@all
   end
 
